@@ -23,16 +23,11 @@ El problema identificado fue la desorganizacion en cuanto a dispositivos a cause
 
 
 # Instalacion
-Descargar el proyecto del repositorio
-Descomprimir el archivo para obtener la carpeta del proyecto
-Abrimos la carpeta del proyecto
-Abrimos la carpeta de bin en la cual encontraremos el archivo .jar
-Iniciamos el ejecutable
-Como es un .jar el software no se instala, solo se ejecuta en el ambiente de JAVA por eso es importante que tengamos la ultima version de java instalada en nuestro equipo
-
-# Configuracion
-Instalamos la version mas actual de java ya que sin ella no pdoremos correr el software
-Configuracion del ambiente JAVA
+- Descargar el proyecto.
+- Descomprimir archivo .zip.
+- Obtener la carpeta del proyecto.
+- Abrir el proyecto.
+- Correr el proyecto en servidor local.
 
 
 # Uso
