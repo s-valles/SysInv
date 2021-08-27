@@ -4,7 +4,7 @@ Inventario de Sistemas
 # Descripcion
 Es una herramienta de gestion de activos, particularmente sistemas del del departamento de tecnologias de la informacion de la empresa. Esta herramienta sera de apoyo en la elaboracion de reportes de inventario que servira para la toma de desiciones del departamento asi como para brindar un soporte mas agil al tener localizados los activos.
 
-# Problema identificado
+# Problema Identificado
 El problema identificado fue la desorganizacion en cuanto a dispositivos a cause de la falta de una base de datos que sirviera como un inventario centralizado para tener el historial de las adquisiciones y mantener localizadas e identificadas las computadoras (activos) en todo momento.
 
 # Contenidos
