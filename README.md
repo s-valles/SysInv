@@ -25,6 +25,14 @@ La solucion que se planteo fue el implementar un programa que sirviera como luga
 - Eliminar sistemas.
 - Mostrar datos del sistema.
 
+# Requerimientos
+- IDE - STS / Eclipse Neon.3.3
+- JDK - 16
+- Apache Tomcat - 10.6
+- JSTL - 1.2.1
+- Servlet API - 4.0
+- JSP - 2.2 +
+- MySQL - mysql-connector-java.jar
 
 # Instalacion
 - Descargar el proyecto.
