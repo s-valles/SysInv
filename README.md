@@ -52,6 +52,10 @@ La solucion que se planteo fue el implementar un programa que sirviera como luga
 # Uso
 El software será para uso interno del departamento de tecnologias de la informacion. En un inicio solamente sera administrado por un usuario para ingresar al programa todos los datos que vayan siendo recopilados durante los inventarios de los activos del departamento.
 
+## Usuario Administrador
+El usuario administrador sera el encargado de ingresar la informacion al sistema, resultado del inventario, mediante el la forma de para ingreso de datos. Esto se puede lograr llendo a la pagina principal y dando click en el boton Add New System (Agregar Nuevo Sistema).
+Despues de haber llenado todos los datos en la forma se procede a guardarlos para seguir agregando mas datos.
+
 
 # Roadmap
 Al ir trabajando con el programa dentro de la empresa y con la experiencia de los usuarios del area de sistemas, podremos identificar errores y mejoras para poder is mejorando el software de acuerdo a las necesidades del departamento. Se planea lanzar actualizaciones de acuerdo al sistema agile de manera continua para mantener el sistema en movimiento.
