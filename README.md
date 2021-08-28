@@ -73,6 +73,15 @@ Se invita a los usuarios de este programa a contribuir directamente a este. Los 
 
 # Roadmap
 Al ir trabajando con el programa dentro de la empresa y con la experiencia de los usuarios del area de sistemas, podremos identificar errores y mejoras para poder is mejorando el software de acuerdo a las necesidades del departamento. Se planea lanzar actualizaciones de acuerdo al sistema agile de manera continua para mantener el sistema en movimiento.
+  
+Las posibles caracteristicas a complementar serian las siguientes:
+  
+  - Agregar columna para publicar garantias de los activos.
+  - Asignar computadoras a usuarios.
+  - Agrupar computadoras por departamento.
+  - Utilizar javasript para mejorar la interfaz.
+  - Mostrar un historial de cambios por activo.
+  - Agregar datos de hardware y software de que cada computadora.
 
 # Diagrama de la Solucion
 ![image](https://user-images.githubusercontent.com/82923981/131185564-df7f5ec9-34d5-404d-a1fd-9f0be9c6964d.png)
