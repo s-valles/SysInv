@@ -41,6 +41,13 @@ La solucion que se planteo fue el implementar un programa que sirviera como luga
 - Abrir el proyecto.
 - Correr el proyecto en servidor local.
 
+# Configuracion
+- Configuracion del producto.
+  - Los archivos de configuracion deberan ser agregados a la carpeta lib.
+   - jsp-api.2.3.1.jar
+   - servlet-api.4.0.0.jar
+   - mysql-connector-java.jar
+   - jstl-1.2.jar 
 
 # Uso
 El software será para uso interno del departamento de tecnologias de la informacion. En un inicio solamente sera administrado por un usuario para ingresar al programa todos los datos que vayan siendo recopilados durante los inventarios de los activos del departamento.
