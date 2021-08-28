@@ -2,18 +2,22 @@
 Inventario de Sistemas
 
 # Descripcion
-Es una herramienta de gestion de activos, particularmente sistemas del del departamento de tecnologias de la informacion de la empresa. Esta herramienta sera de apoyo en la elaboracion de reportes de inventario que servira para la toma de desiciones del departamento asi como para brindar un soporte mas agil al tener localizados los activos.
+Es una herramienta de gestion de activos, particularmente sistemas del departamento de tecnologias de la informacion de la empresa. Esta herramienta sera de apoyo en la elaboracion de reportes de inventario que servira para la toma de desiciones del departamento asi como para brindar un soporte mas agil al tener localizados los activos.
 
 # Problema Identificado
-El problema identificado fue la desorganizacion en cuanto a dispositivos a cause de la falta de una base de datos que sirviera como un inventario centralizado para tener el historial de las adquisiciones y mantener localizadas e identificadas las computadoras (activos) en todo momento.
+El problema identificado fue la desorganizacion en cuanto a dispositivos a causa de la falta de una base de datos que sirviera como un inventario centralizado para tener el historial de las adquisiciones y mantener localizadas e identificadas las computadoras (activos) en todo momento.
 
-# Contenidos
-- Interfaz de usuario.
-- Tablas de informacion.
+# Solucion
+La solucion que se planteo fue el implementar un programa que sirviera como lugar de referencia para la localizacion de computadoras y donde se pudiera mantener la informacion organizada y que en un momento dado pudiera ser util a la hora de la planeacion del presupuesto anual para el departamento de TI al tomar en cuenta los activos con los que se cuenta y las futuras adquisiciones.
+
+# Tabla de Contenidos
+- [Interfaz de usuario.](https://github.com/s-valles/SysInv/wiki#welcome-to-the-sysinv-wiki)
+- [Tablas de informacion.](https://github.com/s-valles/SysInv/wiki#tablas-de-informacion)
   -  ID
   -  Nombre
   -  Numero de Serie
   -  Locacion
+- [Caracteristicas](https://github.com/s-valles/SysInv/wiki#caracteristicas)
 - Botones de editar y eliminar.
 - Listado de sistemas totales.
 - Forma de ingreso de datos de los sistemas.
