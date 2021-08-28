@@ -56,6 +56,20 @@ El software será para uso interno del departamento de tecnologias de la informa
 El usuario administrador sera el encargado de ingresar la informacion al sistema, resultado del inventario, mediante el la forma de para ingreso de datos. Esto se puede lograr llendo a la pagina principal y dando click en el boton Add New System (Agregar Nuevo Sistema).
 Despues de haber llenado todos los datos en la forma se procede a guardarlos para seguir agregando mas datos.
 
+# Contribucion
+## Guia de Contribucion
+Se invita a los usuarios de este programa a contribuir directamente a este. Los pasos para realizarlo son los siguientes:
+
+- Clonar Repositorio
+  -  En el lado derecho de la pantalla, debajo de la pestaña "Contributors", se apreciara un boton verde que dice "Clonar o Descargar". Se debe hacer click en este y en la ventana que aparece debajo seleccionar el icono de "Copiar" para copiar la URL del repositorio y agregarlo con el comando $ git clone <repo-url>. 
+- Crear Nuevo Branch
+  - Se debe de ir a la página principal del repositorio de GitHub y localizar el boton del branch principal. Estando ahi, para crear un nuevo branch daremos click en el menú de seleccion de branches y comenzaremos a escribir el nombre del nuevo branch en el cuadro de texto y dar click en crear branch. 
+- Enviar Pull Request
+  Despues de haber generado al menos otro branch podremos continuar colaborando al generar Pull Requests, esto se puede hacer llendo a la pagina principal en el menu superior y dando click en Pull Requests. En la pagina siguiente se localiza del lado derecho el boton verde New Pull Request y seleccionar los branches a comparar para finalmente crearlo al tener los resultados.
+- Espera Antes de  Hacer Merge
+  Es necesario esperar antes de hacer merge, permitiendose tener claros los cambios que se veran publicados en la version principal.
+
+
 
 # Roadmap
 Al ir trabajando con el programa dentro de la empresa y con la experiencia de los usuarios del area de sistemas, podremos identificar errores y mejoras para poder is mejorando el software de acuerdo a las necesidades del departamento. Se planea lanzar actualizaciones de acuerdo al sistema agile de manera continua para mantener el sistema en movimiento.
